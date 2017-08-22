@@ -1,0 +1,355 @@
+Cmp-Mod V01 Genere par PcbNew le 22.08.2017 09:50:42
+
+BeginCmp
+TimeStamp = 5998E36B
+Path = /59943C78
+Reference = U1;
+ValeurCmp = BLUEFR_LE_UART_FR_BLE;
+IdModule  = Bluefruit_LE_UART;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B176
+Path = /59980C65
+Reference = Q2;
+ValeurCmp = LP0701N3-G;
+IdModule  = TO-92-FET-inline-wide-SGD;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B1E6
+Path = /59980CA1
+Reference = R3;
+ValeurCmp = 100R;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B1F2
+Path = /5998806C
+Reference = R13;
+ValeurCmp = 1K;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B1FE
+Path = /5998805D
+Reference = R15;
+ValeurCmp = 100R;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B20A
+Path = /599838F4
+Reference = R17;
+ValeurCmp = 1K1;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B216
+Path = /5998807B
+Reference = R16;
+ValeurCmp = 1K;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998EF4E
+Path = /599882BD
+Reference = R4;
+ValeurCmp = 1K;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B22E
+Path = /599882CC
+Reference = R8;
+ValeurCmp = 470R;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B23A
+Path = /599882EA
+Reference = R7;
+ValeurCmp = 1K;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B246
+Path = /59988303
+Reference = R9;
+ValeurCmp = 1K;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998E973
+Path = /59980C92
+Reference = R5;
+ValeurCmp = 2K;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B25E
+Path = /59980C83
+Reference = R2;
+ValeurCmp = 1K;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B26A
+Path = /59988C22
+Reference = R10;
+ValeurCmp = 3K9;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B276
+Path = /59988C13
+Reference = R11;
+ValeurCmp = 2K;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B282
+Path = /5998A66E
+Reference = R14;
+ValeurCmp = 3K9;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B28E
+Path = /5998A67D
+Reference = R12;
+ValeurCmp = 2K;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B29A
+Path = /5998A0A1
+Reference = R1;
+ValeurCmp = 6K8;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B2A6
+Path = /599888C4
+Reference = R6;
+ValeurCmp = 1K;
+IdModule  = Resistor_Horizontal_RM10mm_22Apr2011;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B2B2
+Path = /5998304F
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B2BC
+Path = /59982D58
+Reference = SP1;
+ValeurCmp = CPE-165;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998D1C9
+Path = /59982E6E
+Reference = JP2;
+ValeurCmp = JUMPER;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B2D0
+Path = /59982E5F
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B2E0
+Path = /599BDBD2
+Reference = D1;
+ValeurCmp = DIODE;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = 599942C9
+Path = /59981564
+Reference = D5;
+ValeurCmp = ZENER 5V;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = 599942DB
+Path = /59981555
+Reference = D4;
+ValeurCmp = ZENER 5V;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998CD5C
+Path = /59981546
+Reference = D2;
+ValeurCmp = ZENER 5V;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B320
+Path = /59981537
+Reference = D3;
+ValeurCmp = ZENER 5V;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998DFD4
+Path = /5998A650
+Reference = D6;
+ValeurCmp = ZENER 5V;
+IdModule  = D3;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B33A
+Path = /5998AE10
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = Capacitor7x2.5RM5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B344
+Path = /5998AE01
+Reference = C3;
+ValeurCmp = 1uF;
+IdModule  = Capacitor7x2.5RM5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B34E
+Path = /59988445
+Reference = C1;
+ValeurCmp = 1uF;
+IdModule  = Capacitor7x2.5RM5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B18F
+Path = /5998B576
+Reference = Q5;
+ValeurCmp = BC547;
+IdModule  = TO-92-Free-inline-wide;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B1A8
+Path = /5998B59B
+Reference = Q3;
+ValeurCmp = BC547;
+IdModule  = TO-92-Free-inline-wide;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B1C1
+Path = /5998B53D
+Reference = Q1;
+ValeurCmp = BC547;
+IdModule  = TO-92-Free-inline-wide;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998E9B8
+Path = /5998B5C0
+Reference = Q4;
+ValeurCmp = BC557;
+IdModule  = TO-92-Free-inline-wide;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998BB7D
+Path = /599533D1
+Reference = P1;
+ValeurCmp = PHOENIX1989780;
+IdModule  = Phoenix_PTFSA_0.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998D0C5
+Path = /599533E0
+Reference = P2;
+ValeurCmp = PHOENIX1989780;
+IdModule  = Phoenix_PTFSA_0.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998E323
+Path = /599533EF
+Reference = P3;
+ValeurCmp = PHOENIX1989780;
+IdModule  = Phoenix_PTFSA_0.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998E338
+Path = /59953400
+Reference = P4;
+ValeurCmp = PHOENIX1989780;
+IdModule  = Phoenix_PTFSA_0.5;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998C9EF
+Path = /5994396F
+Reference = U2;
+ValeurCmp = SEN-13762;
+IdModule  = SEN-13762;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998B15B
+Path = /59980BC1
+Reference = U3;
+ValeurCmp = 78L05;
+IdModule  = TO-92-LM78L05;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998CEF3
+Path = /599429F3
+Reference = U4;
+ValeurCmp = TEENSY_3.2;
+IdModule  = TEENSY3.2;
+EndCmp
+
+BeginCmp
+TimeStamp = 5998E345
+Path = 
+Reference = Outl;
+ValeurCmp = EuroBoard_viertel_Type-I_80mmX50mm_holes;
+IdModule  = EuroBoard_viertel_Type-I_80mmX50mm_holes;
+EndCmp
+
+EndListe

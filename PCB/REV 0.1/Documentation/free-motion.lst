@@ -1,0 +1,48 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 22.08.2017 09:40:38
+#Cmp ( order = Reference )
+| C1         1uF         ; ~           ;             
+| C2         1uF         ; ~           ;             
+| C3         1uF         ; ~           ;             
+| D1         DIODE       ; ~           ;             
+| D2         ZENER 5V    ; ~           ;             
+| D3         ZENER 5V    ; ~           ;             
+| D4         ZENER 5V    ; ~           ;             
+| D5         ZENER 5V    ; ~           ;             
+| D6         ZENER 5V    ; ~           ;             
+| JP1        JUMPER      ; ~           ;             
+| JP2        JUMPER      ; ~           ;             
+| K1         CONN_3      ; ~           ;             
+| P1         PHOENIX1989780; ~           ;             
+| P2         PHOENIX1989780; ~           ;             
+| P3         PHOENIX1989780; ~           ;             
+| P4         PHOENIX1989780; ~           ;             
+| Q1         BC547       ; TO92        ;             
+| Q2         LP0701N3-G  ; ~           ;             
+| Q3         BC547       ; TO92        ;             
+| Q4         BC557       ; TO92        ;             
+| Q5         BC547       ; TO92        ;             
+| R1         6K8         ; ~           ;             
+| R2         1K          ; ~           ;             
+| R3         100R        ; ~           ;             
+| R4         1K          ; ~           ;             
+| R5         2K          ; ~           ;             
+| R6         1K          ; ~           ;             
+| R7         1K          ; ~           ;             
+| R8         470R        ; ~           ;             
+| R9         1K          ; ~           ;             
+| R10        3K9         ; ~           ;             
+| R11        2K          ; ~           ;             
+| R12        2K          ; ~           ;             
+| R13        1K          ; ~           ;             
+| R14        3K9         ; ~           ;             
+| R15        100R        ; ~           ;             
+| R16        1K          ; ~           ;             
+| R17        1K1         ; ~           ;             
+| SP1        CPE-165     ; ~           ;             
+| U1         BLUEFR_LE_UART_FR_BLE;             ;             
+| U2         SEN-13762   ;             ;             
+| U3         78L05       ; ~           ;             
+| U4         TEENSY_3.2  ; ~           ;             
+#End Cmp
+
+#Ende der Liste

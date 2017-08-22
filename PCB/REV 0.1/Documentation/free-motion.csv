@@ -1,0 +1,23 @@
+ID;INDEX;Enclosure type;count;part name
+1;U1;Bluefruit_LE_UART;1;BLUEFR_LE_UART_FR_BLE
+2;Q2;TO-92-FET-inline-wide-SGD;1;LP0701N3-G
+3;R3,R15;Resistor_Horizontal_RM10mm_22Apr2011;2;100R
+4;R13,R16,R4,R7,R9,R2,R6;Resistor_Horizontal_RM10mm_22Apr2011;7;1K
+5;R17;Resistor_Horizontal_RM10mm_22Apr2011;1;1K1
+6;R8;Resistor_Horizontal_RM10mm_22Apr2011;1;470R
+7;R5,R11,R12;Resistor_Horizontal_RM10mm_22Apr2011;3;2K
+8;R10,R14;Resistor_Horizontal_RM10mm_22Apr2011;2;3K9
+9;R1;Resistor_Horizontal_RM10mm_22Apr2011;1;6K8
+10;K1;PIN_ARRAY_3X1;1;CONN_3
+11;SP1;PIN_ARRAY_2X1;1;CPE-165
+12;JP2,JP1;PIN_ARRAY_2X1;2;JUMPER
+13;D1;D3;1;DIODE
+14;D5,D4,D2,D3,D6;D3;5;ZENER 5V
+15;C2,C3,C1;Capacitor7x2.5RM5;3;1uF
+16;Q5,Q3,Q1;TO-92-Free-inline-wide;3;BC547
+17;Q4;TO-92-Free-inline-wide;1;BC557
+18;P1,P2,P3,P4;Phoenix_PTFSA_0.5;4;PHOENIX1989780
+19;U2;SEN-13762;1;SEN-13762
+20;U3;TO-92-LM78L05;1;78L05
+21;U4;TEENSY3.2;1;TEENSY_3.2
+22;Outl;EuroBoard_viertel_Type-I_80mmX50mm_holes;1;EuroBoard_viertel_Type-I_80mmX50mm_holes
