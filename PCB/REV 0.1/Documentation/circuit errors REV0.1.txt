@@ -1,0 +1,15 @@
+Errors freemotion REV0.1
+------------------------
+
+Following rrors are known on PCB REV0.1 and will be corrected with next version.
+On REV0.1 please handle as described: 
+
+
+1. Teensy Enumeration in circuit diagram is wrong
+	--> Nothing to do here since enumeration will be handled in software
+
+2. Q2 P-Mosfet Drain and source are reversed connected.
+	--> turn part 180° before soldering in
+
+3. SP1 Missing Load Resistor at Piezo speaker
+	--> solder additional 1kOhm parallel to SP1 
